@@ -1,0 +1,20 @@
+#div_a{
+    background-color: rgb(69.41, 61.18, 85.1);
+    height: 200px;
+    width:100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+#div_a_filha{
+    background-color: #ffcbdb;
+    height: 100%;
+    width:250px;
+    border: dotted red 20px;
+}
+#div_a_filho{
+    background-color: #03bb85;
+    height: 100%;
+    width: 30%;
+}
